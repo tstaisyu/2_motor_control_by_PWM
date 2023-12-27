@@ -3,6 +3,11 @@
 Ubuntu 22.04
 Arduino IDE
 
+## Arduino setting
+
+```bash
+
+```
 
 # Hardware
 
